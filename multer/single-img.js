@@ -32,11 +32,11 @@ app.listen(3000, () => {
 
 // let a=req.body;
 // let {a,b}=req.body
-let response={
-  name:"sobi",age:3
-}
+// let response={
+//   name:"sobi",age:3
+// }
 
-let {name,age,status="success"}=response;
-console.log("result 1:",name)
-console.log("result 2:",age)
-console.log("result 3:",status)
+// let {name,age,status="success"}=response;
+// console.log("result 1:",name)
+// console.log("result 2:",age)
+// console.log("result 3:",status)
